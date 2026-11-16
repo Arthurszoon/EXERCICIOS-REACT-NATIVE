@@ -1,3 +1,4 @@
+<img width="1836" height="880" alt="Captura de tela 2026-11-05 152527" src="https://github.com/user-attachments/assets/af8517d1-9cf2-45fc-9bdb-74cdf2d51bcf" />
 # 💧 Calculadora de Consumo de Água
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
