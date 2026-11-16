@@ -1,6 +1,4 @@
 <img width="1862" height="886" alt="Captura de tela 2026-11-05 152826" src="https://github.com/user-attachments/assets/8dd859d8-e568-4ec3-8afc-d6b4917f2087" />
-### `questao03/README.md`
-
 ```markdown
 # 📦 Controle de Estoque (Inventário)
 
