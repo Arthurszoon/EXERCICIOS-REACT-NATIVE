@@ -1,6 +1,4 @@
-### `questao09/README.md`
 
-```markdown
 # 🍔 Autoatendimento – Lanchonete Universitária
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -68,3 +66,5 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img width="1861" height="916" alt="Captura de tela 2026-11-05 151638" src="https://github.com/user-attachments/assets/028047bf-c1a5-4860-84d4-f22a2996af8c" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 44 57" src="https://github.com/user-attachments/assets/08f081e2-4670-414d-97a2-73635dfcb3de" />
