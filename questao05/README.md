@@ -1,6 +1,3 @@
-### `questao05/README.md`
-
-```markdown
 # 💳 Simulador Bancário – Conta Digital
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
