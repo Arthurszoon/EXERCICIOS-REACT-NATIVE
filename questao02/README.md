@@ -1,4 +1,3 @@
-
 ### `questao02/README.md`
 
 ```markdown
