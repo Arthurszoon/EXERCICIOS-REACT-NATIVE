@@ -1,6 +1,4 @@
-### `questao06/README.md`
 
-```markdown
 # 🗳️ Votação de Representantes – Grêmio Estudantil
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -72,3 +70,8 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img width="1866" height="871" alt="Captura de tela 2026-11-05 154112" src="https://github.com/user-attachments/assets/642683c2-14f9-41ff-89fe-c11491ac8cfb" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 32 18" src="https://github.com/user-attachments/assets/bbbaebea-a00c-42a1-a5d8-10372c7bc0d4" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 32 23" src="https://github.com/user-attachments/assets/9f6bfa8e-c939-482e-9120-a2b3a658a5ef" />
+
+
