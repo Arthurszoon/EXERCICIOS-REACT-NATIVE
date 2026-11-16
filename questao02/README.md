@@ -1,3 +1,4 @@
+<img width="1862" height="886" alt="Captura de tela 2026-11-05 152826" src="https://github.com/user-attachments/assets/3cf4f73e-4c9a-4000-b6f4-0009e25e9464" />
 ### `questao02/README.md`
 
 ```markdown
@@ -68,7 +69,5 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-<img width="1862" height="886" alt="Captura de tela 2026-11-05 152826" src="https://github.com/user-attachments/assets/3cf4f73e-4c9a-4000-b6f4-0009e25e9464" />
-<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 19 07" src="https://github.com/user-attachments/assets/f42d362e-67d1-4194-a708-548256963c3c" />
-<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 19 11" src="https://github.com/user-attachments/assets/65891a7d-a281-43d6-bd88-a316f3bd0072" />
+
 
