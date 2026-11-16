@@ -1,4 +1,3 @@
-<img width="1836" height="880" alt="Captura de tela 2026-11-05 152527" src="https://github.com/user-attachments/assets/af8517d1-9cf2-45fc-9bdb-74cdf2d51bcf" />
 # 💧 Calculadora de Consumo de Água
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -64,3 +63,4 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img width="1836" height="880" alt="Captura de tela 2026-11-05 152527" src="https://github.com/user-attachments/assets/af8517d1-9cf2-45fc-9bdb-74cdf2d51bcf" />
