@@ -1,3 +1,4 @@
+<img width="1862" height="886" alt="Captura de tela 2026-11-05 152826" src="https://github.com/user-attachments/assets/3cf4f73e-4c9a-4000-b6f4-0009e25e9464" />
 ### `questao02/README.md`
 
 ```markdown
