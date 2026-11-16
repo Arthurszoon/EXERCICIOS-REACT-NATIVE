@@ -1,6 +1,4 @@
-### `questao08/README.md`
 
-```markdown
 # 🎓 Cadastro Acadêmico – Registro de Estudantes
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -70,3 +68,6 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+<img width="1858" height="876" alt="Captura de tela 2026-11-05 153250" src="https://github.com/user-attachments/assets/21e34e1e-c44c-49a4-bcf1-0a33df3e5179" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 39 17" src="https://github.com/user-attachments/assets/fe828963-7aa0-40da-8339-7ec8254339e4" />
+
