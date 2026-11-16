@@ -1,4 +1,4 @@
-<img width="1862" height="886" alt="Captura de tela 2026-11-05 152826" src="https://github.com/user-attachments/assets/3cf4f73e-4c9a-4000-b6f4-0009e25e9464" />
+
 ### `questao02/README.md`
 
 ```markdown
@@ -70,4 +70,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
-
+<img width="1862" height="886" alt="Captura de tela 2026-11-05 152826" src="https://github.com/user-attachments/assets/3cf4f73e-4c9a-4000-b6f4-0009e25e9464" />
