@@ -1,6 +1,4 @@
-### `questao02/README.md`
 
-```markdown
 # 🎓 Sistema Acadêmico – Avaliação de Desempenho
 
 ![React Native](https://img.shields.io/badge/React_Native-0.81.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -68,5 +66,10 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+<img width="1851" height="891" alt="Captura de tela 2026-11-05 152649" src="https://github.com/user-attachments/assets/78e3fa50-0740-4d92-8f47-87d18356e5f0" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 18 28" src="https://github.com/user-attachments/assets/76fd6078-deb0-4fea-b925-99a513a70f35" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 18 32" src="https://github.com/user-attachments/assets/4382bbc9-6d75-4c0c-9a62-d0e07535f45a" />
+
 
 
