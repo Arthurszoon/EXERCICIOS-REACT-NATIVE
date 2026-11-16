@@ -64,3 +64,4 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 <img width="1836" height="880" alt="Captura de tela 2026-11-05 152527" src="https://github.com/user-attachments/assets/af8517d1-9cf2-45fc-9bdb-74cdf2d51bcf" />
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-05 at 00 18 01" src="https://github.com/user-attachments/assets/e3f09aa3-699f-4e15-af44-b1694c325095" />
